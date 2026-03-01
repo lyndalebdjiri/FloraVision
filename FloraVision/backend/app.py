@@ -33,7 +33,7 @@ MAX_FILE_SIZE = 10 * 1024 * 1024  # 10MB
 
 
 MODEL_PATH    = os.path.join(BASE_DIR, "resnet50_flower_model_v2.pth")
-GDRIVE_FILE_ID = "https://drive.google.com/file/d/16GChkDpZgbmdSCyQFffOHx0D_rHtaEsj/view?usp=drive_link"
+GDRIVE_FILE_ID = "16GChkDpZgbmdSCyQFffOHx0D_rHtaEsj"
 
 def download_model_if_needed():
     if os.path.exists(MODEL_PATH):
