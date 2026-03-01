@@ -4,7 +4,7 @@ An AI-powered flower identification app. Upload a photo and get the flower name,
 
 ## Live Demo
 
-- **App:** [your-link-here](https://your-link-here) ← update after deploying
+- **App:** [floravision-486x.onrender.com](https://floravision-486x.onrender.com)
 
 ## What It Does
 
