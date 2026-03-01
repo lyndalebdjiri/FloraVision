@@ -8,7 +8,7 @@ An AI-powered flower identification app. Upload a photo and get the flower name,
 
 ## What It Does
 
-Upload a flower photo and instantly receive a complete identification card including the common name, scientific name, care tips, bloom season, and fun facts — all powered by a custom-trained deep learning model.
+Upload a flower photo and instantly receive a complete identification card including the common name, scientific name, care tips, bloom season, and fun facts  all powered by a custom-trained deep learning model.
 
 ## Tech Stack
 
