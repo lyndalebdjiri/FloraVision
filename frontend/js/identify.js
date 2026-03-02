@@ -6,7 +6,7 @@
 // ── Configuration ──
 const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB in bytes
 const ALLOWED_TYPES = ['image/jpeg', 'image/jpg', 'image/png', 'image/webp'];
-const API_ENDPOINT = 'http://127.0.0.1:5000/predict'; // Backend endpoint
+const API_ENDPOINT = 'https://floravision-486x.onrender.com/predict';
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 // ── DOM refs ──
