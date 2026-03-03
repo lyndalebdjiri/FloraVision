@@ -6,7 +6,7 @@
 // ── Configuration ──
 const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB in bytes
 const ALLOWED_TYPES = ['image/jpeg', 'image/jpg', 'image/png', 'image/webp'];
-const API_ENDPOINT = '/predict';
+const API_ENDPOINT = 'https://floravision-zpzc.onrender.com/predict';
 const REQUEST_TIMEOUT_MS = 30000;
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -430,3 +430,4 @@ uploadZone.addEventListener('keydown', (e) => {
 uploadZone.setAttribute('tabindex', '0');
 uploadZone.setAttribute('role', 'button');
 uploadZone.setAttribute('aria-label', 'Upload flower image');
+
